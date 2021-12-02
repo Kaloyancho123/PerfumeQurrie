@@ -1,0 +1,358 @@
+
+img{
+  width: 80%;
+  height: 350px;
+  margin: auto;
+  margin-top: 5%;
+  display: block;
+}
+.bodyb{
+  top: 200%;
+  max-height: 100%;
+  max-width: 100%;
+}
+.container{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.centered{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 36px;
+  overflow-wrap: break-word;
+  inline-size: 700px; 
+}
+.info{
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 14px;
+  overflow-wrap: break-word;
+  font-family: Arial, sans-serif;
+  inline-size: 400px; 
+}
+.button{
+  color: black;
+  position: absolute;
+  top: 80%;
+  left: 45%;
+  text-align: center;
+  font-size: 14px;
+  overflow-wrap: break-word;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  border: 2px;
+  border-style: solid;
+  inline-size: 100px;
+  text-decoration: none;
+  transition: transform .2s;
+}
+.button:hover{
+  transform: scale(1.1);
+}
+.container2{
+  position: absolute;
+  top:100%;
+  left: 28.4%;
+  transform: translate(-50%, -50%);
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+}
+.container3{
+  position: absolute;
+  top:100%;
+  left: 71.55%;
+  transform: translate(-50%, -50%);
+  font-size: 36px;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+}
+.container4{
+  position: absolute;
+  top:161%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 36px;
+  overflow-wrap: break-word;
+  inline-size: 1325px; 
+
+}
+.details{
+  position: absolute;
+  top:65%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  overflow-wrap: break-word;
+  inline-size: 300px; 
+  max-width: 10%;
+  max-height: 20%
+}
+.details2{
+  position: absolute;
+  top:56%;
+  left: 83.5%;
+  transform: rotate(260deg);
+  font-size: 20px;
+  overflow-wrap: break-word;
+  inline-size: 300px; 
+  max-width: 10%;
+  max-height: 20%
+}
+
+.details3{
+    position: absolute;
+    transform: rotate(-30deg);
+    top:-13%;
+    left: 8%;
+    max-width: 10%;
+    max-height: 40%
+}
+.details4{
+  position: absolute;
+  top:10%;
+  left: 79.4%;
+  max-width: 10%;
+  max-height: 30%
+}
+.details5{
+  position: absolute;
+  transform: rotate(90deg);
+  top:123.5%;
+  left: 12.5%;
+  max-width: 10%;
+  max-height: 30%
+}
+.details6{
+  position: absolute;
+  transform: rotate(90deg);
+  top:195%;
+  left: 12.5%;
+  max-width: 1%;
+  max-height: 1%;
+}
+.details7{
+  position: absolute;
+  top:-20%;
+  left: 0;
+  width: 100%;
+  height: 220%;
+}
+.details8{
+  position: absolute;
+  top:83%;
+  left: 22%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 190px;
+  max-height: 190px;
+  transition: transform .2s;
+}
+.details8:hover{
+transform: scale(1.1);
+}
+
+.d9{
+  position: absolute;
+  top:90%;
+  left: 20%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 250px;
+  max-height: 220px;
+}
+.d10{
+  position: absolute;
+  top:75%;
+  left: 60%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 280px;
+  max-height: 280px;
+  transition: transform .2s;
+}
+.d10:hover{
+transform: scale(1.1);
+}
+.d11{
+  position: absolute;
+  top:130%;
+  left: 40%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 280px;
+  max-height: 280px;
+  transition: transform .2s;
+}
+.d11:hover{
+transform: scale(1.1);
+}
+.d12{
+  position: absolute;
+  top:140%;
+  left: 37%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 350px;
+  max-height: 220px;
+}
+.d13{
+  position: absolute;
+  top:132%;
+  left: 65%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 200px;
+  max-height: 270px;
+  transition: transform .2s;
+}
+.d13:hover{
+transform: scale(1.1);
+}
+.d14{
+  position: absolute;
+  top:155%;
+  left: 60%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 350px;
+  max-height: 220px;
+}
+.d15{
+  position: absolute;
+  top:132%;
+  left: 15%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 250px;
+  max-height: 270px;
+  transition: transform .2s;
+}
+.d15:hover{
+transform: scale(1.1);
+}
+.d16{
+  position: absolute;
+  top:155%;
+  left: 11%;
+  overflow-wrap: break-word;
+  inline-size: 600px; 
+  max-width: 380px;
+  max-height: 220px;
+}
+.d17{
+position: absolute;
+top:188%;
+left: 43.1%;
+overflow-wrap: break-word;
+inline-size: 600px; 
+max-width: 40px;
+max-height: 40px;
+transition: transform .2s;
+}
+.d17:hover{
+transform: scale(1.1);
+}
+.d18{
+position: absolute;
+top:187.5%;
+left: 48.5%;
+overflow-wrap: break-word;
+inline-size: 600px; 
+max-width: 47px;
+max-height: 47px;
+transition: transform .2s;
+}
+.d18:hover{
+transform: scale(1.1);
+}
+.d19{
+position: absolute;
+top:187.2%;
+left: 54%;
+overflow-wrap: break-word;
+inline-size: 600px; 
+max-width: 47px;
+max-height: 51px;
+transition: transform .2s;
+}
+.d19:hover{
+transform: scale(1.1);
+}
+.details9{
+position: absolute;
+transform: rotate(270deg);
+top:157.85%;
+left: 77.45%;
+max-width: 10%;
+max-height: 30%
+}
+.txt1{
+position: absolute;
+text-underline-position: below;
+top:77%;
+left: 24.8%;
+font-size: 20px;
+max-width: 10%;
+max-height: 20%
+}
+.txt2{
+position: absolute;
+text-underline-position: below;
+top:77%;
+left: 67%;
+font-size: 20px;
+max-width: 10%;
+max-height: 20%
+}
+.special{
+position: absolute;
+transform: rotate(90deg);
+top:100%;
+left: 41%;
+font-size: 40px;
+}
+.logo{
+position: absolute;
+text-align: center;
+height: 70px;
+width: 70px;
+left: 46.85%;
+top: -7%;
+}
+.details8wrap {
+position: absolute;
+top:90%;
+left: 18.5%;
+overflow-wrap: break-word;
+inline-size: 600px; 
+max-width: 190px;
+max-height: 190px;
+}
+.details8description{
+position: absolute;
+text-align: center;
+font-size: 20px;
+inline-size: 200px;
+font-weight: bold;
+top: 100px;
+left: 36px;
+border: 1px;
+border-style: solid;
+background: rgba(42, 150, 99, 0.72);
+color: black;
+visibility: hidden;
+opacity: 0;
+
+}
+/* .details8wrap:hover .details8description {
+visibility: visible;
+opacity: 1;
+} */ 
+/*Идея за Изкачащ Текст*/

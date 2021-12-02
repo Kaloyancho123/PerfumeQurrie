@@ -1,0 +1,290 @@
+.buttonHS{
+    color: black;
+    position: absolute;
+    top: 2.4%;
+    left: 5%;
+    text-align: center;
+    font-size: 25px;
+    overflow-wrap: break-word;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: 2px;
+    border-style: solid;
+    inline-size: 300px;
+    text-decoration: none;
+    transition: transform .2s;
+  }
+  .buttonHS:hover{
+    transform: scale(1.1);
+  }
+  .buttonAS{
+    color: black;
+    position: absolute;
+    top: 2.4%;
+    left: 39%;
+    text-align: center;
+    font-size: 25px;
+    overflow-wrap: break-word;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: 2px;
+    border-style: solid;
+    inline-size: 300px;
+    text-decoration: none;
+    transition: transform .2s;
+  }
+  .buttonAS:hover{
+    transform: scale(1.1);
+  }
+  .buttonSS{
+    color: rgb(221, 80, 80);
+    position: absolute;
+    top: 2.4%;
+    left: 73%;
+    text-align: center;
+    font-size: 25px;
+    overflow-wrap: break-word;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border: 2px;
+    border-style: solid;
+    inline-size: 300px;
+    text-decoration: none;
+    transition: transform .2s;
+  }
+  .buttonSS:hover{
+    transform: scale(1.1);
+  }
+  .details7S{
+    position: absolute;
+    top:-20%;
+    left: 0;
+    width: 100%;
+    height: 220%;
+  }
+  .p1{
+    position: absolute;
+    top: 15%;
+    left: 6.6%;
+    border: 2px;
+    border-style: solid;
+    height: 260px;
+    width: 260px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .p1:hover{
+      transform: scale(1.04);
+  }
+  .p2{
+    position: absolute;
+    top: 12%;
+    left: 39%;
+    border: 2px;
+    border-style: solid;
+    height: 300px;
+    width: 300px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .p2:hover{
+      transform: scale(1.04);
+  }
+  .p3{
+    position: absolute;
+    top: 15%;
+    left: 74.6%;
+    border: 2px;
+    border-style: solid;
+    height: 260px;
+    width: 260px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .p3:hover{
+      transform: scale(1.04);
+  }
+  .small1{
+    position: absolute;
+    top: 31.5%;
+    left: 30.5%;
+    border: 2px;
+    border-style: solid;
+    height: 50px;
+    width: 50px;
+  }
+  .small2{
+    position: absolute;
+    top: 31.5%;
+    left: 65.9%;
+    border: 2px;
+    border-style: solid;
+    height: 50px;
+    width: 50px;
+  }
+  .small3{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    border: 2px;
+    border-style: solid;
+    height: 10px;
+    width: 80%;
+  }
+  .a1{
+    position: absolute;
+    top: 82%;
+    left: 2.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .a1:hover{
+      transform: scale(1.04);
+  }
+  .a2{
+    position: absolute;
+    top: 82%;
+    left: 28.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+    }
+    .a2:hover{
+        transform: scale(1.04);
+    }
+  .a3{
+    position: absolute;
+    top: 82%;
+    left: 54.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+    }
+    .a3:hover{
+        transform: scale(1.04);
+    }
+  .a4{
+    position: absolute;
+    top: 82%;
+    left: 80.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+    }
+    .a4:hover{
+        transform: scale(1.04);
+    }
+  .a5{
+    position: absolute;
+    top: 136%;
+    left: 2.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .a5:hover{
+      transform: scale(1.04);
+  }
+  .a6{
+    position: absolute;
+    top: 136%;
+    left: 28.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+  }
+  .a6:hover{
+      transform: scale(1.04);
+  }
+  .a7{
+    position: absolute;
+    top: 136%;
+    left: 54.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+    }
+    .a7:hover{
+        transform: scale(1.04);
+    }
+  .a8{
+    position: absolute;
+    top: 136%;
+    left: 80.25%;
+    height: 250px;
+    width: 250px;
+      object-fit: fill;
+      fill: black;
+      border: 1px solid black;
+      transition: transform .2s;
+    }
+    .a8:hover{
+        transform: scale(1.04);
+    }
+    .small4{
+      position: absolute;
+      top: 185.5%;
+      left: 10%;
+      border: 2px;
+      border-style: solid;
+      height: 10px;
+      width: 80%;
+      }
+      *::-webkit-scrollbar {
+        width: 0;
+      }
+      
+      *::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      
+      *::-webkit-scrollbar-thumb {
+        background: transparent;
+        border: none;
+      }
+      .small5{
+      position: absolute;
+      top: 8.4%;
+      left: 5%;
+      border: 2px;
+      border-style: solid;
+      height: 2px;
+      width: 90%;
+      }
+      .small6{
+      position: absolute;
+      top: 0.8%;
+      left: 5%;
+      border: 2px;
+      border-style: solid;
+      height: 2px;
+      width: 90%;
+      }
